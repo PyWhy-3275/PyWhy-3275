@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyWhy-3275)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyWhy-3275)
 
 Lang | code
 ------------- | -------------
