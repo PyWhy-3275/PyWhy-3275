@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-First Header  | Second Header
+Lang | code
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+py  | discord Bot (nimbus)
+lua | RipMarket (OpenComputers)
 
 <!--
 **PyWhy-3275/PyWhy-3275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
